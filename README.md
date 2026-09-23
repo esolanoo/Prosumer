@@ -1,6 +1,6 @@
-# Prosume
-Exploration data analysis Estonian company Enefit challenge on Kaggle to predict the energetic beehaviour of the prosumer in the baltic region.
-A complete analysis and model can be foun (in a nicely presented way) in [here](https://sites.google.com/up.edu.mx/prosumer-energy-behavior/home
+# Prosumer
+Exploration data analysis of Estonian company Enefit challenge on Kaggle to predict the energetic behaviour of the prosumer in the baltic region.
+A complete analysis and model can be found (in a nicely presented way) [here](https://sites.google.com/up.edu.mx/prosumer-energy-behavior/home
 
 A complete regression model will be available once the competition ends.
 
